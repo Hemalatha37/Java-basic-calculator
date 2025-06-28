@@ -1,16 +1,35 @@
-# 📚 Library Management System
+**🧮 Java Calculator Project (Beginner Java Program)**
+This is a simple Calculator application written in Java. It demonstrates the use of methods to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-A **Spring Boot** application for managing books, users, and borrowing records in a library.
+**📋 What this program does:**
+Uses methods to organize arithmetic operations
 
-## 🚀 Features
-- **Book Management**: Add, update, and fetch books.
-- **User Authentication**: Secure access using Spring Security.
-- **Borrowing System**: Track borrowed books with automatic return dates.
-- **RESTful APIs**: Exposes endpoints for managing books and borrowing.
+Performs:
 
-## 🛠 Technologies Used
-- **Java 11+**, **Spring Boot**, **Spring Security**
-- **MySQL**, **Spring Data JPA**
-- **Maven**, **JUnit + Mockito**
-- **Postman (for testing APIs)**
+Addition
 
+Subtraction
+
+Multiplication
+
+Division
+
+Displays results for two given numbers
+
+**🧠 Concepts Used:**
+Java methods (public static)
+
+Method return types (int, double)
+
+Conditional check (if to avoid division by zero)
+
+Type casting (for accurate division result)
+
+System.out.println() for output
+
+** Sample Output:**
+
+Add: 15
+Subtract: 5
+Multiply: 50
+Divide: 2.0
